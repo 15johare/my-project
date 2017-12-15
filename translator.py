@@ -16,5 +16,5 @@ elif word=="dog":
   print("chien")
   
 elif word=="cat":
-  print("cat")
+  print("chat")
   
