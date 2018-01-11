@@ -18,3 +18,16 @@ while True:
  elif word=="cat":
    print("chat")
   
+elif word=="dear":
+ print("cher (M) ")
+ print("chère (F) ")
+ 
+elif word=="your friend":
+ print("ton ami (M)")
+ print("ton amie (F) ")
+ 
+elif word=="best wishes":
+ print("amitíes")
+ 
+elif word=="return":
+ print("rentrée")
