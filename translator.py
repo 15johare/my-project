@@ -31,3 +31,8 @@ elif word=="best wishes":
  
 elif word=="return":
  print("rentrée")
+ 
+elif word=="have fun":
+ print("amuse toi bien")
+ 
+ 
