@@ -35,4 +35,7 @@ elif word=="return":
 elif word=="have fun":
  print("amuse toi bien")
  
+elif word=="bycicle":
+ print("une bicyclette")
+ 
  
