@@ -38,4 +38,10 @@ elif word=="have fun":
 elif word=="bycicle":
  print("une bicyclette")
  
+elif word=="lamp":
+ print("une lampe")
+ 
+elif word=="flower":
+ print("une fleur")
+ 
  
