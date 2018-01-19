@@ -107,7 +107,14 @@ elif word=="my name is":
 elif word=="where do you live":
  print("oú habites tu?")
  
-elif word=="
+elif word=="i live in dublin":
+ print("j'habite à Dublin")
+ 
+elif word=="how old are you":
+ print("tu as quel âge")
+ 
+elif word=="i am twelve":
+ print("j'ai douze ans")
   
  
  
