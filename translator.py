@@ -101,5 +101,13 @@ elif word=="flower":
  elif word==""what is your name":
   print("comment tu t'appelles")
   
+elif word=="my name is":
+ print("je m'appelle")
+ 
+elif word=="where do you live":
+ print("oú habites tu?")
+ 
+elif word=="
+  
  
  
