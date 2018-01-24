@@ -115,6 +115,69 @@ elif word=="how old are you":
  
 elif word=="i am twelve":
  print("j'ai douze ans")
+ 
+elif word=="theatre":
+ print("théâtre")
+ 
+elif word=="bank":
+ print("banque")
+ 
+elif word=="church":
+ print("l'église")
+ 
+elif word=="bridge":
+ print("le pont")
+ 
+elif word=="school":
+ print("l'école")
+ 
+elif word=="station":
+ print("la gare")
+ 
+elif word=="service station":
+ print("la station-service")
+ 
+elif word=="bus stop":
+ print("la gare routière")
+ 
+elif word=="hospital":
+ print("l'hóspital")
+ 
+elif word=="market":
+ print("marché")
+ 
+elif word=="shop":
+ print("le magasin")
+ 
+elif word=="supermarket":
+ print("supermarché")
+ 
+elif word"butchers":
+ print("boucherie")
+ 
+elif word=="pharmacy":
+ print("pharmacie")
+ 
+elif word=="bakery":
+ print("boulangerie")
+ 
+elif word=="library":
+ print("bibliothèque")
+ 
+elif word=="museum":
+ print(" le musée")
+ 
+elif word=="cinema":
+ print("le cinéma")
+ 
+elif word=="stadium":
+ print("le stade")
+ 
+elif word=="town hall":
+ print("la mairie")
+ 
+elif word=="to ask for directions":
+ print("demander son chemin")
   
  
  
