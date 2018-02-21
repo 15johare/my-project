@@ -18,31 +18,31 @@ while True:
  elif word=="cat":
    print("chat")
   
-elif word=="dear":
- print("cher (M) ")
- print("chère (F) ")
+ elif word=="dear":
+  print("cher (M) ")
+  print("chère (F) ")
  
-elif word=="your friend":
- print("ton ami (M)")
- print("ton amie (F) ")
+ elif word=="your friend":
+  print("ton ami (M)")
+  print("ton amie (F) ")
  
-elif word=="best wishes":
- print("amitíes")
+ elif word=="best wishes":
+  print("amitíes")
  
-elif word=="return":
- print("rentrée")
+ elif word=="return":
+  print("rentrée")
  
-elif word=="have fun":
- print("amuse toi bien")
+ elif word=="have fun":
+  print("amuse toi bien")
  
-elif word=="bycicle":
- print("une bicyclette")
+ elif word=="bycicle":
+  print("une bicyclette")
  
-elif word=="lamp":
- print("une lampe")
+ elif word=="lamp":
+  print("une lampe")
  
-elif word=="flower":
- print("une fleur")
+ elif word=="flower":
+  print("une fleur")
  
  elif word=="snake":
   print("un serpent")
@@ -98,86 +98,90 @@ elif word=="flower":
  elif word=="and you?":
   print("et toi?")
   
- elif word==""what is your name":
+ elif word=="what is your name":
   print("comment tu t'appelles")
   
-elif word=="my name is":
- print("je m'appelle")
+ elif word=="my name is":
+  print("je m'appelle")
  
-elif word=="where do you live":
- print("oú habites tu?")
+ elif word=="where do you live":
+  print("oú habites tu?")
  
-elif word=="i live in dublin":
- print("j'habite à Dublin")
+ elif word=="i live in dublin":
+  print("j'habite à Dublin")
+  
+ elif word=="how old are you":
+  print("tu as quel âge")
  
-elif word=="how old are you":
- print("tu as quel âge")
+ elif word=="i am twelve":
+  print("j'ai douze ans")
  
-elif word=="i am twelve":
- print("j'ai douze ans")
+ elif word=="theatre":
+  print("théâtre")
  
-elif word=="theatre":
- print("théâtre")
+ elif word=="bank":
+  print("banque")
  
-elif word=="bank":
- print("banque")
+ elif word=="church":
+  print("l'église")
  
-elif word=="church":
- print("l'église")
+ elif word=="bridge":
+  print("le pont")
+  
+ elif word=="school":
+  print("l'école")
  
-elif word=="bridge":
- print("le pont")
+ elif word=="station":
+  print("la gare")
  
-elif word=="school":
- print("l'école")
+ elif word=="service station":
+  print("la station-service")
  
-elif word=="station":
- print("la gare")
+ elif word=="bus stop":
+  print("la gare routière")
  
-elif word=="service station":
- print("la station-service")
+ elif word=="hospital":
+  print("l'hóspital")
  
-elif word=="bus stop":
- print("la gare routière")
+ elif word=="market":
+  print("marché")
  
-elif word=="hospital":
- print("l'hóspital")
+ elif word=="shop":
+  print("le magasin")
  
-elif word=="market":
- print("marché")
+ elif word=="supermarket":
+  print("supermarché")
  
-elif word=="shop":
- print("le magasin")
+ elif word=="butchers":
+  print("boucherie")
  
-elif word=="supermarket":
- print("supermarché")
+ elif word=="pharmacy":
+  print("pharmacie")
  
-elif word"butchers":
- print("boucherie")
+ elif word=="bakery":
+  print("boulangerie")
+
+
+ elif word=="library":
+  print("bibliothèque")
  
-elif word=="pharmacy":
- print("pharmacie")
+ elif word=="museum":
+  print(" le musée")
+  
+ elif word=="cinema":
+  print("le cinéma")
  
-elif word=="bakery":
- print("boulangerie")
+ elif word=="stadium":
+  print("le stade")
  
-elif word=="library":
- print("bibliothèque")
+ elif word=="town hall":
+  print("la mairie")
  
-elif word=="museum":
- print(" le musée")
- 
-elif word=="cinema":
- print("le cinéma")
- 
-elif word=="stadium":
- print("le stade")
- 
-elif word=="town hall":
- print("la mairie")
- 
-elif word=="to ask for directions":
- print("demander son chemin")
+ elif word=="to ask for directions":
+  print("demander son chemin")
+
+ elif word=="house":
+  print("maison")
   
  
  
