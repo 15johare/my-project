@@ -1,5 +1,5 @@
 while True:
- print("this is a code that changes english words into french")
+ print("this is a code that changes English words into French")
 
  word=input("any english word")
 
@@ -183,5 +183,40 @@ while True:
  elif word=="house":
   print("maison")
   
- 
+ elif word=="to be":
+  print("être")
+  print("i am - je suis")
+  print("you(singular) are - tu es")
+  print("he is - il est")
+  print("she is - elle est")
+  print("we are - nous sommes")
+  print("you (plural) are - vous êtes")
+  print("they(M) are - ils sont")
+  print("they(F) are - elles sont")
+  
+ elif word=="to have":
+  print("avoir")
+  print("i have - j'ai")
+  print("you (singular) have - tu as")
+  print("he has - il a")
+  print("she is - elle a")
+  print("we have - nous avons")
+  print("you (plural) have - vous avez")
+  print("they (M) have - ils ont")
+  print("they (f) have - elles ont")
+  
+ elif word=="to hate":
+  print("détester")
+   
+ elif word=="to love":
+  print("adorer")
+  
+ elif word=="to like":
+  print("aimer")
+  
+ elif word=="to dislike":
+  print("me pas aimer")
+  
+ elif word=="to do":
+  print("faire")
  
